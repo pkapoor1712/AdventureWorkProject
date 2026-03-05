@@ -1,0 +1,13 @@
+{
+	"name": "HttpServerjson",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/pkapoor1712/AdventureWorkProject/refs/heads/main/DATA/parameter.json",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

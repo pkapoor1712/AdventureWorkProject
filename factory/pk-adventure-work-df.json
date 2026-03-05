@@ -1,0 +1,9 @@
+{
+	"name": "pk-adventure-work-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10de7515-1260-4964-ac6d-8f0e71f70513",
+		"tenantId": "3211f43b-ee38-4d64-95d0-a29cad376485"
+	}
+}
